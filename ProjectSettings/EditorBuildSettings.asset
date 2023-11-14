@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr-MainScene.unity
+    guid: b7fe654469f088a4aa920a26a258c9d8
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr000-HelloRokid.unity
+    guid: d2951211076de8749862f15fb98528d6
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr001-HeadTracking.unity
+    guid: 737f4186a519be3478b220c3db8a36cd
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr003-VoiceRecognize.unity
+    guid: d2fa1d36c79150f4fb19bf695bc5b19e
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr005-GamePadController.unity
+    guid: b6ac5fe35991b7b4aa8035821ef49487
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr006-Phone3DofController.unity
+    guid: d5dcc40f11e455f4683fda802ba1c221
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr008-CameraPreview.unity
+    guid: 264fe99fe9cbe5646aa55d1577369030
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr009-WebViewController.unity
+    guid: 731400870be9405408b95f386876e4db
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr011-GlassScreenProjection.unity
+    guid: 149438578734ca64eaabd35884755ac9
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr012-RKHandRay.unity
+    guid: 8d3efa53917196c4fb69dde35756a0b1
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr013-RKMultiInteractor.unity
+    guid: 47549323f8c2b0b40b1898080b3a59cd
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr014-RKSensorAPI.unity
+    guid: 086da68068dd9014dba9e91f4b2d1189
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr015-RKHandGrab.unity
+    guid: d7f31ffcfd55fb84caa9b04c53d74372
+  - enabled: 1
+    path: Assets/Samples/Rokid UXR2.0 SDK/2.3.7/UXR Sample/Scenes/uxr016-UIOverlay.unity
+    guid: 4bf475627a5e711469b1f3fa01587f2a
+  m_configObjects:
+    EasyAR.Mega.Studio.Settings: {fileID: 11400000, guid: 432772d5fe1918742bdae0b7497915d0,
+      type: 2}
+    EasyAR.Settings: {fileID: 11400000, guid: 91d1a24f015948a4ab0fc36906aa2395, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ff21f264587db8845accc31c9305e476,
+      type: 2}
